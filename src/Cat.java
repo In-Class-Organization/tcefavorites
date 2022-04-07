@@ -19,6 +19,7 @@ public class Cat extends Pet implements Serializable {
 		setName("Feline");
 		isLongHair = false;
 		setBirthDate(new Date(1,1,2000));
+		System.out.println("ilgsdflsdflug");
 	}
 	
 	/**
