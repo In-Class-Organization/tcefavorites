@@ -1,6 +1,7 @@
 import java.io.Serializable;
 
 //BRUH - change to add and re commit changes
+//BRUH2 - second change in branch to recommit in branch
 
 /**
  * A cat class
